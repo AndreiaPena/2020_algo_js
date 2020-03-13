@@ -17,4 +17,8 @@ if (a=1){
    console.log (a +=2);
 } else {
    console.log (a +=3)
+};
+ 
+for ( var x=0, x<10, x++ ) {
+    console.log(x)
 }
